@@ -7,9 +7,6 @@
 .calculator-wrap {
   width: 500px;
   margin: 6rem auto;
-  background-color: red;
-  display: flex;
-  flex-direction: column;
 }
 
 .calculator-display {
