@@ -92,6 +92,7 @@ Install this project with:
 ```sh
   cd math-magicians
   npm install
+  npm run build
 ```
 
 ### Usage
