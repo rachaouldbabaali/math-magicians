@@ -37,3 +37,16 @@
 .key19 {
   background-color: #ed913d;
 }
+
+.quotes {
+  color: #1a1919;
+  background-color: #ed913d;
+  padding: 20px;
+  margin: 3rem auto;
+  text-align: center;
+  font-size: 10px;
+  font-family: cursive;
+  font-weight: 600;
+  max-width: 500px;
+  backdrop-filter: blur(10px);
+}
