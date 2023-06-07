@@ -101,6 +101,13 @@ To use this project on the `index.html` file with your prefered browser
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+### Run tests 
+To run tests you should run the fellowing command :
+```sh
+  npm test
+```
+
+
 ## 👥 Author <a name="authors"></a>
 
 
