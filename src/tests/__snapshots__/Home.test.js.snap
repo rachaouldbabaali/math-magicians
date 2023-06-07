@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home renders the component 1`] = `
+<div
+  className="home-container"
+>
+  <h1
+    className="home-title"
+  >
+    Welcome to our page
+  </h1>
+  <p
+    className="home-text"
+  >
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam voluptatum, voluptate, quibusdam, quia voluptas dolorum quod voluptatibus quos natus quae voluptatem? Quisquam, voluptatem voluptatum. Quisquam, voluptatem voluptatum.
+  </p>
+  <p
+    className="home-text"
+  >
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam voluptatum, voluptate, quibusdam, quia voluptas dolorum quod voluptatibus quos natus quae voluptatem? Quisquam, voluptatem voluptatum. Quisquam, voluptatem voluptatum.
+  </p>
+</div>
+`;
