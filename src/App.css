@@ -38,15 +38,24 @@
   background-color: #ed913d;
 }
 
+.calcu-h1 {
+  position: absolute;
+  top: 22%;
+  left: 2%;
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  text-align: left;
+  align-self: start;
+}
+
 .quotes {
   color: #1a1919;
-  background-color: #ed913d;
-  padding: 20px;
-  margin: 3rem auto;
+  padding: 40px;
+  margin: 6rem auto;
   text-align: center;
-  font-size: 10px;
+  font-size: 15px;
   font-family: cursive;
   font-weight: 600;
-  max-width: 500px;
   backdrop-filter: blur(10px);
 }
