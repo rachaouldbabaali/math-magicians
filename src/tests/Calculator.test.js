@@ -11,7 +11,9 @@ describe('Calculator', () => {
   });
 
   it('renders the component', () => {
-    const { getByText } = render(<Calculator result={{}} setResult={() => {}} />);
-    expect(getByText('Let\'s do some math!')).toBeInTheDocument();
+    const { getByText } = render(
+      <Calculator result={{}} setResult={() => {}} />,
+    );
+    expect(getByText("Let's do some math!")).toBeInTheDocument();
   });
 });
