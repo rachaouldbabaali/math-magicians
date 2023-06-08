@@ -50,8 +50,8 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## 🚀 Live Demo(still in development) <a name="live-demo"></a>
-
+## 🚀 Live Demo <a name="live-demo"></a>
+[Math Magicians](https://math-magicians-13l3.onrender.com/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
